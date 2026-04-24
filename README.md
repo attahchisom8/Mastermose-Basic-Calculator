@@ -45,7 +45,7 @@ The calculator handles the "Initial Zero" problem with precision. It distinguish
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/attahchisom8/HTML_AND_CSS.git](https://github.com/attahchisom8/HTML_AND_CSS.git)
+    git clone https://github.com/attahchisom8/Mastermose-Basic-Calculator.git
     ```
 2.  **Open the project:**
     Simply open `index.html` in any modern web browser.
