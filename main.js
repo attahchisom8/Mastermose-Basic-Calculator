@@ -77,7 +77,7 @@ const handleEvents = (btnVal) => {
     res = eval_simple_expr(parsedStr);
     if (res === undefined)
       return;
-    str = res + "";
+    str = Number(res).toFixed(10) + "";
     hasReturned = true;
     hasRes = true;
   } else {
